@@ -124,15 +124,7 @@ col = (move-1) % 3
 ### 🧠 AI Opponent
 - Implement minimax algorithm for unbeatable AI
 - Add difficulty settings (Easy/Medium/Hard)
-
-### 🎨 Enhanced Display
-- Add colored console output using `colorama`
-- Improve board visualization with box-drawing characters
-
-### 📱 Multiplatform Support
-- Create GUI version with Tkinter/PyGame
-- Develop web version using Flask/Django
-
+  
 ### ⚙️ Advanced Features
 - Game history tracking
 - Player statistics and win ratios
